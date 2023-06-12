@@ -1,4 +1,4 @@
-# Crowdfunding Extract/Transform/Load
+# Crowdfunding Extract/Transform/Load Project
 
 ## Group Members
 
